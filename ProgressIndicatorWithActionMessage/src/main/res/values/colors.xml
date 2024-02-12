@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    custom error message, success message and progress container -->
+    <color name="error_message_bg">#E92E30</color>
+    <color name="success_message_bg">#6AC259</color>
+    <color name="color1">#0CE4C3</color>
+    <color name="color2">#E6B70F</color>
+    <color name="color3">#DC1111</color>
+</resources>
